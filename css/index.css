@@ -43,6 +43,10 @@ button:last-child {
     box-shadow: none;
 }
 
+button:last-child:hover{
+    background-color: #f2a229;
+}
+
 button:not(:last-child):hover {
     background-color: #aae7ef;
 }
