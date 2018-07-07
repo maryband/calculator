@@ -4,7 +4,6 @@
     width: 190px;
     margin: 10px auto;
     border: 2px solid #000;
-    display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
@@ -17,7 +16,6 @@ input {
     overflow: hidden;
     height: 60px;
     box-shadow: inset 0 0 5px #42d9f4;
-    padding-left: 10px;
     font-size: 24px;
     margin: 10px;
 }
